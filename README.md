@@ -30,7 +30,7 @@
 - 🐧 Tencent QQ：0x36B4B20E
 - 🌐 个人网站：https://www.hujiarong.site
 
-### ❤️ 给我打钱
+### ❤️ 给我打钱！
 支持我的工作？Buy me a cofee！
 -----
 ![Count](https://count.getloli.com/get/@kernel4632?theme=moebooru)
