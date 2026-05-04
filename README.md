@@ -8,17 +8,20 @@
 - 🔭 擅长的：平面设计 / 网站搭建 / 游戏开发 / 逆向 / 发癫（?）
 
 ### ℹ️ Status
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats1.netlify.app/api?username=kernel4632&show_icons=true" alt="kernel4632's GitHub stats" /></a>
 
 ### ⌨️ 会的东西
-[![Node](https://img.shields.io/badge/Node.JS-3c823b?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-
-<!-- 建议补充你当前主用的技术（更匹配你的“关于我”） -->
-[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
+[![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org)
+[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)](https://nuxt.com)
+[![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org)
+
+<!-- 脚手架 & 工具链 -->
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 ### 📫 有事找我？
 
